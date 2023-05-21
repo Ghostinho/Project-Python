@@ -1,0 +1,5 @@
+n = str(input('Digite o seu nome: '))
+print(n.upper())
+print(n.isupper())
+print(n.lower())
+print(n.islower())
